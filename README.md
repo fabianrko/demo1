@@ -1,2 +1,5 @@
-# demo1
-Prácticas
+====
+Demo
+====
+
+Instalación de fedora 28
